@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/jayantportfoliowebsite/static/css/main.da736d4f.css",
+    "main.js": "/jayantportfoliowebsite/static/js/main.08868552.js",
+    "static/js/453.0bb6e7b6.chunk.js": "/jayantportfoliowebsite/static/js/453.0bb6e7b6.chunk.js",
+    "index.html": "/jayantportfoliowebsite/index.html",
+    "main.da736d4f.css.map": "/jayantportfoliowebsite/static/css/main.da736d4f.css.map",
+    "main.08868552.js.map": "/jayantportfoliowebsite/static/js/main.08868552.js.map",
+    "453.0bb6e7b6.chunk.js.map": "/jayantportfoliowebsite/static/js/453.0bb6e7b6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da736d4f.css",
+    "static/js/main.08868552.js"
+  ]
+}
